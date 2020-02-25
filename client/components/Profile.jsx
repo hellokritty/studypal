@@ -1,7 +1,7 @@
 import React, { Component, useState, useEffect } from 'react';
 import ProfileMatches from './Profile.Matches.jsx';
 import ProfileMessages from './Profile.Messages.jsx';
-// import ProfileMatchBoxes from "./Profile.MatchBoxes.jsx"
+import ProfileMatchBoxes from "./Profile.MatchBoxes.jsx"
 // import ProfileMessages from "./Profile.Messages.jsx"
 // import ProfileMessageBoxes from "./Profile.MessageBoxes.jsx"
 

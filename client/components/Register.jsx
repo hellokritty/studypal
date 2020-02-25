@@ -136,7 +136,7 @@ const Register = props => {
         </div>
         <br />
         <p>
-          I agree all statements in <a href="">Term of service.</a>
+          I agree to all statements listed in the <a href="">Term of Service.</a>
         </p>
         <button type="button" className="btnSubmit" onClick={createAccount}>
           Submit

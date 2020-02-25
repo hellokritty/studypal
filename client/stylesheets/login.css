@@ -33,10 +33,10 @@ body {
 }
 
 .welcome {
-  color: white;
-  font-size: 2.5em;
+  color: floralwhite;
+  font-size: 1.5em;
   padding-bottom: 10px;
-  border-bottom: 2px solid white;
+  border-bottom: 1px solid white;
 }
 
 .newTo {
@@ -45,16 +45,16 @@ body {
   padding-bottom: 10px;
 }
 
-.buttonLogin {
+.btnSubmit {
   color: #fff !important;
   text-transform: uppercase;
   text-decoration: none;
   background: #2979ff;
-  padding: 20px;
+  padding: 10px;
   border-radius: 5px;
   display: inline-block;
   border: none;
-  width: 100%;
+  width: 50%;
 }
 
 .mt-20 {

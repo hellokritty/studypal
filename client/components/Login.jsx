@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Link, Redirect } from "react-router-dom";
+import '../stylesheets/login.css';
 
 class Login extends Component {
   constructor(props) {
@@ -69,8 +70,11 @@ class Login extends Component {
     //else
     return (
       <div className="login-register-input">
-        <h1>StudyPal</h1>
-        <p className="welcome">Welcome back!</p>
+        <h1>StudyPal
+           {/* <img src="/favicon.jpg" /> */}
+        </h1>
+       
+        <p className="welcome">Welcome Back!</p>
         <input
           className="text"
           type="text"
